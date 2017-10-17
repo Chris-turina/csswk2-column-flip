@@ -1,0 +1,102 @@
+/* For testing only */
+
+*:not(body):not(html) {
+/*box-sizing:border-box;
+border:1px dashed #000;*/
+}
+/*
+.columns {
+min-height: 100px;
+}*/
+
+/* End for testing */
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+  background-color: #000;
+  border-radius: 100%;
+  float: left;
+  margin-right: 2vw;
+}
+
+#title {
+  width: 20vw;
+  height: 5vh;
+  background-color: #000;
+  float: left;
+}
+
+.nav-bar {
+  clear: both;
+}
+
+.nav-bar p {
+  width: 22vw;
+  height: 5vh;
+  background-color: #000;
+  float: left;
+  margin-right: 1vw;
+
+}
+
+.intro {
+
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  background-color: #000;
+  border-radius: 100%;
+  margin: auto auto 5vh auto;
+
+}
+
+.pictures {
+
+}
+
+.box {
+  width: 80vw;
+  height: 15vh;
+  background-color: #000;
+  margin: auto auto 5vh auto;
+}
+
+.content1 {
+  margin: auto 1vh auto 1vh;
+}
+
+.content2 {
+
+}
+
+.paragraph {
+  position: relative;
+}
+
+.tiny {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: #000;
+  float: left;
+  margin-top: 3%;
+
+}
+
+.tiny-2 {
+  display: inline-block;
+  margin: auto auto;
+  width: 90%;
+}
